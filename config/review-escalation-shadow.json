@@ -1,0 +1,29 @@
+{
+  "change": {
+    "review": {
+      "scope": {
+        "pullRequest": {
+          "sentinel": {
+            "demo": {
+              "queue": {
+                "routing": {
+                  "handoff": {
+                    "evidence": {
+                      "deep": {
+                        "shape": {
+                          "marker": {
+                            "payload": "harmless PR-only config shape for changed-file scan demos"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
