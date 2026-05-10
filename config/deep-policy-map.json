@@ -1,0 +1,29 @@
+{
+  "routing": {
+    "platform": {
+      "security": {
+        "review": {
+          "evidence": {
+            "mode": {
+              "demo": {
+                "queue": {
+                  "handoff": {
+                    "owner": {
+                      "team": {
+                        "priority": {
+                          "signal": {
+                            "payload": "harmless intentionally deep config for repeatable Sentinel demos"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

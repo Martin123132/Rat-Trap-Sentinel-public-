@@ -1,0 +1,8 @@
+runtime:
+  node: "20"
+  region: "local-demo"
+  replicas: 1
+review:
+  evidenceMode: "public-demo"
+  route: "platform-security"
+  notification: "dry-run"

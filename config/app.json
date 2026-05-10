@@ -1,0 +1,9 @@
+{
+  "service": "sentinel-public-demo",
+  "environment": "demo",
+  "owner": "platform-security",
+  "review": {
+    "required": true,
+    "defaultPriority": "P3"
+  }
+}

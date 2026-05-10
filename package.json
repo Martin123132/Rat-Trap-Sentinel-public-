@@ -1,0 +1,12 @@
+{
+  "name": "rat-trap-sentinel-public-demo-target",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Small public fixture repository for Rat Trap Sentinel scan demos.",
+  "scripts": {
+    "check": "node -e \"console.log('demo target configuration is present')\""
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
