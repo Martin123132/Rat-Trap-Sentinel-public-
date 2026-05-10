@@ -1,0 +1,33 @@
+{
+  "sentinel": {
+    "permanentDemoPullRequest": {
+      "review": {
+        "handoff": {
+          "routing": {
+            "platform": {
+              "security": {
+                "queue": {
+                  "owner": {
+                    "sla": {
+                      "evidence": {
+                        "policy": {
+                          "decision": {
+                            "anomaly": {
+                              "marker": {
+                                "payload": "harmless permanent open PR fixture for Sentinel changed-file demos"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

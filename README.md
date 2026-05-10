@@ -23,7 +23,9 @@ Martin123132/Rat-Trap-Sentinel-public- @ main
 Pull-request scan target:
 
 ```text
-Martin123132/Rat-Trap-Sentinel-public- # demo PR
+Martin123132/Rat-Trap-Sentinel-public- # permanent demo PR
 ```
+
+The permanent demo PR is intentionally left open so Sentinel can repeatedly demonstrate PR changed-file scanning. Do not merge or close that PR unless a replacement PR is created and the private Sentinel product defaults are updated first.
 
 Keep secrets, credentials, and real customer code out of this repository.
