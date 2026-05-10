@@ -1,0 +1,31 @@
+{
+  "demo": {
+    "openPullRequest": {
+      "review": {
+        "routing": {
+          "platform": {
+            "security": {
+              "evidence": {
+                "handoff": {
+                  "queue": {
+                    "triage": {
+                      "owner": {
+                        "policy": {
+                          "exception": {
+                            "watch": {
+                              "payload": "harmless open PR config shape for Sentinel changed-file demos"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
