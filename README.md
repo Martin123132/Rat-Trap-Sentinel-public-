@@ -26,4 +26,3 @@ Pull-request scan target:
 Martin123132/Rat-Trap-Sentinel-public- # demo PR
 ```
 
-Keep secrets, credentials, and real customer code out of this repository.
